@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a software developer in AUS.
+
+⚡ weekeendprojects.dev
+
+😄 https://www.youtube.com/channel/UChz8ci-hPMtQVSehtCR2hzQ
+
 <!--
 **kentaroau/kentaroau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
