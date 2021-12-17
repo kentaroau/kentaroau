@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a software developer in AUS.
+I am a software developer in Australia.
 
-⚡ weekeendprojects.dev
+![Web site](link.png) weekeendprojects.dev
 
-😄 https://www.youtube.com/channel/UChz8ci-hPMtQVSehtCR2hzQ
+![Youtube](youtube-line.png) https://www.youtube.com/channel/UChz8ci-hPMtQVSehtCR2hzQ
 
 <!--
 **kentaroau/kentaroau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
