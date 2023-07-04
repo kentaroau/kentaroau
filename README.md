@@ -2,7 +2,7 @@
 
 I am a software developer in Australia.
 
-![WeekendProjects.dev](https://weekeendprojects.dev)
+![Website](youtube-line.png) (https://weekendprojects.dev)
 
 ![Youtube](youtube-line.png) (https://www.youtube.com/channel/UChz8ci-hPMtQVSehtCR2hzQ)
 
