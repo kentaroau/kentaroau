@@ -4,7 +4,7 @@ I am a software developer in Australia.
 
 ![Website](link.png) https://weekendprojects.dev
 
-![Youtube](youtube-line.png) (https://www.youtube.com/channel/UChz8ci-hPMtQVSehtCR2hzQ)
+![Youtube](youtube-line.png) https://www.youtube.com/channel/UChz8ci-hPMtQVSehtCR2hzQ
 
 <!--
 **kentaroau/kentaroau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
